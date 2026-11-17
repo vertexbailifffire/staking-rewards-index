@@ -1,0 +1,9 @@
+{
+  "product": "Staking Rewards Index",
+  "version": "9.2.0",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
